@@ -1,0 +1,2 @@
+# automated_operations_withPython
+Python批量登录到服务器执行任务
